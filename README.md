@@ -1,3 +1,4 @@
+About me
 
 🔭 Currently working on
 Strengthening my Data Structures & Algorithms skills, Java development, and academic projects related to Computer Science.
